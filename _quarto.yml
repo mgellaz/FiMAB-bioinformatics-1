@@ -79,9 +79,9 @@ book:
 
   page-footer:
     left: |
-      All content licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+      Unless otherwise noted, all content on this site is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). [![](../assets/cc-by-nc-sa.svg){fig-alt="CC BY-NC-SA 4.0" height=30px}](https://creativecommons.org/licenses/by-nc-sa/4.0/)
       <br>
-      &copy; Pieter Moris, Eline Kattenberg & Mathijs Mutsaers, 2023.
+      &copy; Pieter Moris, Eline Kattenberg & Mathijs Mutsaers - [ITM Malariology](https://research.itg.be/en/organisations/malariology), 2024.
     right: Built with [Quarto](https://quarto.org/).
     # background: "#f8f9fa"
 
