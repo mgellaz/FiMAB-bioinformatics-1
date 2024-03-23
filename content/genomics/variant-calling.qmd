@@ -1,0 +1,20 @@
+# Variant calling
+
+## Types of variants
+
+- SNVs = SNPs and indels
+- Tandem repeats and SVs
+
+::: {.callout-note}
+## Paired-end sequencing
+
+Paired-end sequencing can help to detect larger structural variants.
+
+:::
+
+![Detecting structural variants. Source: Baker (2012). Structural Variation: The Genome’s Hidden Architecture. [https://doi.org/10.1038/nmeth.1858](https://doi.org/10.1038/nmeth.1858)](../assets/structural-variant-detection.webp)
+
+
+
+<!-- https://www.nature.com/articles/nmeth.1858
+https://www.nature.com/articles/nmeth.1858/figures/3 -->

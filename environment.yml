@@ -4,11 +4,13 @@ channels:
   - conda-forge
 dependencies:
   - fastqc
+  - fastq-screen
   - picard
   - trimmomatic
   - bwa
   - samtools
   - vcftools
+  - bcftools
   - gatk4
   - sra-tools
   - ffq

@@ -1,0 +1,26 @@
+# Additional resources
+
+We have compiled a list of other resources that cover similar topics as us, and which have served as an inspiration when building our own course.
+
+- https://training.galaxyproject.org/training-material/topics/sequence-analysis/
+- https://mmbdtp.github.io/modules/sequencing/week-2-programme/
+    - https://mmbdtp.github.io/modules/sequence-analysis/programme/
+- https://people.duke.edu/~ccc14/duke-hts-2018/index.html
+- https://people.duke.edu/~ccc14/duke-hts-2018/index.html
+- https://ngs-course.readthedocs.io/en/praha-november-2023/index.html
+
+
+https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-introduction/variant-identification-and-analysis/
+
+https://datacarpentry.org/wrangling-genomics/04-variant_calling.html
+
+https://www.ebi.ac.uk/training/events/methods-genomic-variant-calling/
+
+https://www.melbournebioinformatics.org.au/tutorials/tutorials/variant_calling_gatk1/files/VariantCallingUsingGATK4.pdf
+https://www.melbournebioinformatics.org.au/tutorials/tutorials/variant_calling_gatk1/variant_calling_gatk1/
+https://www.melbournebioinformatics.org.au/tutorials/tutorials/var_detect_advanced/var_detect_advanced_background/
+
+
+https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/02_assessing_quality.html - ARCHIVED
+
+https://scienceparkstudygroup.github.io/rna-seq-lesson/03-qc-of-sequencing-results/index.html#21-the-fastq-format

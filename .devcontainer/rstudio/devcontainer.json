@@ -1,12 +1,23 @@
 {
 	"name": "RStudio Server",
+	// https://rocker-project.org/images/devcontainer/images.html
 	"image": "ghcr.io/rocker-org/devcontainer/tidyverse:4",
 	"features": {
+		// https://github.com/rocker-org/devcontainer-features/blob/main/src/rstudio-server/README.md
+		// already pre-installed in tidyverse container - https://rocker-project.org/images/devcontainer/images.html#rstudio-server
 		"ghcr.io/rocker-org/devcontainer-features/rstudio-server:latest": {},
+		// https://github.com/rocker-org/devcontainer-features/blob/main/src/r-packages/README.md
 		"ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
-			"packages": "tidyverse,rmarkdown,BiocManager",
+			"packages": "tidyverse,
+			rmarkdown,
+			BiocManager,
+			shiny,
+			shinythemes,
+			",
 			"installSystemRequirements": true
-		}
+		},
+		// https://github.com/rocker-org/devcontainer-features/blob/main/src/miniforge/README.md
+		"ghcr.io/rocker-org/devcontainer-features/miniforge:1": {}
 	},
 	"postAttachCommand": {
 		"rstudio-start": "rserver"
